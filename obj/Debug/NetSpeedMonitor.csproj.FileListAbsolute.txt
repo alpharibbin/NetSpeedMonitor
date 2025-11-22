@@ -1,0 +1,9 @@
+D:\Tools\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.exe.config
+D:\Tools\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.exe
+D:\Tools\NetSpeedMonitor\bin\Debug\NetSpeedMonitor.pdb
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.csproj.AssemblyReference.cache
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.Properties.Resources.resources
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.csproj.GenerateResource.cache
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.csproj.CoreCompileInputs.cache
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.exe
+D:\Tools\NetSpeedMonitor\obj\Debug\NetSpeedMonitor.pdb

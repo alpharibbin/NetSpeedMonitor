@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tools\\NetSpeedMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|d:\\tools\\netspeedmonitor\\speedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|solutionrelative:speedwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|d:\\tools\\netspeedmonitor\\trayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|solutionrelative:trayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|d:\\tools\\netspeedmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D3EFD8-6FA6-4EF8-8AA9-3C90BAED5BA8}|NetSpeedMonitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeedWindow.cs",
+              "DocumentMoniker": "D:\\Tools\\NetSpeedMonitor\\SpeedWindow.cs",
+              "RelativeDocumentMoniker": "SpeedWindow.cs",
+              "ToolTip": "D:\\Tools\\NetSpeedMonitor\\SpeedWindow.cs",
+              "RelativeToolTip": "SpeedWindow.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv58AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:29:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrayApp.cs",
+              "DocumentMoniker": "D:\\Tools\\NetSpeedMonitor\\TrayApp.cs",
+              "RelativeDocumentMoniker": "TrayApp.cs",
+              "ToolTip": "D:\\Tools\\NetSpeedMonitor\\TrayApp.cs",
+              "RelativeToolTip": "TrayApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:28:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tools\\NetSpeedMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tools\\NetSpeedMonitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:27:22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
