@@ -139,5 +139,5 @@ Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) fo
 
 ---
 
-**Note**: Replace `yourusername` in the GitHub links with your actual GitHub username when publishing.
+**Note**: Replace `alpharibbin` in the GitHub links with your actual GitHub username when publishing.
 
